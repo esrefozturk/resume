@@ -32,6 +32,10 @@ Performance benchmarking on software defined radios: https://github.com/esrefozt
 
 Benchmarking of babel routing protocol on software defined radios: https://github.com/esrefozturk/babel-performance-sdr
 
+## Software-Defined Network Security Book Chapter
+
+A comprehensive overview of how SDN overcomes the limitations of traditional networks: https://www.igi-global.com/chapter/software-defined-network-security/214814
+
 ## Nano Token Based Gambling Website
 
 ## Chess Web Application
