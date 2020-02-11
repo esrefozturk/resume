@@ -50,6 +50,8 @@ Web chess application based on GNUChess: http://checkmatechess.github.io/
 
 ## Personalized Sleep Tracking and Analyzing System
 
+Fully automated personalized sleep tracking and analyzing system: https://senior.ceng.metu.edu.tr/2016/newline/
+
 ## Car Accident Detection and Driver Behaviour Analysis
 
 ## Integrity and Origin Authentication of QR Codes
