@@ -58,6 +58,8 @@ Web chess application based on GNUChess: http://checkmatechess.github.io/
 
 ## Deep Learning Social Media Comment Classification
 
+Classification of user comments into social media groups with opposing views: https://github.com/obe-dl/social-media-comment-classification/
+
 ## PDF AutoBookmarker Application
 
 Automatically creates bookmarks to PDF files: [screenshot](images/autobookmarker.png)
