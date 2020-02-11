@@ -58,7 +58,7 @@ Web chess application based on GNUChess: http://checkmatechess.github.io/
 
 ## PDF AutoBookmarker Application
 
-Automatically creates bookmarks to PDF files: [images/autobookmarker.png]
+Automatically creates bookmarks to PDF files: [screenshot](images/autobookmarker.png)
 
 ## Device Management System
 
