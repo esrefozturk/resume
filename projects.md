@@ -40,6 +40,8 @@ A comprehensive overview of how SDN overcomes the limitations of traditional net
 
 ## Chess Web Application
 
+Web chess application based on GNUChess: http://checkmatechess.github.io/
+
 ## Content Management System for Hospital Screens
 
 ## Equine(Horse) Fitness Tracker
